@@ -9,6 +9,7 @@ Thats a bit strage, but doesn't matter. Dogs make people happy!
 * heavy 
 * light 
 * cosy
+* lovely
 
 As Doggy said:
 
