@@ -4,4 +4,9 @@ My favourite character in a movie is a dog. Dogs are often cute and beautiful. I
 Thats a bit strage, but doesn't matter. Dogs make people happy!
 
 ## Traits of the character
-small, big, cute, heavy, light, cosy
+* small 
+* big 
+* cute 
+* heavy 
+* light 
+* cosy
