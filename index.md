@@ -16,4 +16,5 @@ As Doggy said:
 > Waw
 > Wuw
 
+<img src="https://hpi.de/typo3conf/ext/hpi_distribution/Resources/Public/Default/img/hpi_logo_srgb_wb_sl1_web80.png"/>
 
